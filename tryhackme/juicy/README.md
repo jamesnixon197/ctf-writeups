@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="../assets/image.png" alt="TryHackMe Logo" width="120" />
+  <a href="https://tryhackme.com">
+    <img src="../assets/image.png" alt="TryHackMe Logo" width="120" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="./assets/image.png" alt="Juicy Room Logo" width="220" />
+  <a href="https://tryhackme.com/room/juicy">
+    <img src="./assets/image.png" alt="Juicy Room" width="220" />
+  </a>
 </p>
 
 # THM Juicy - Write-up
 
-(Link to the room)[https://tryhackme.com/room/juicy]
+[Link to the room](https://tryhackme.com/room/juicy)
 
 This was an interesting room. You’re dropped into a single page with an AI dog called **Juicy**. Like any good dog, she’s nosy – she loves listening in on her owner’s calls and “secret” information.
 
