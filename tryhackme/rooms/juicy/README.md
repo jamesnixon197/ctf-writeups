@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tryhackme.com">
-    <img src="../assets/logo.png" alt="TryHackMe Logo" width="120" />
+    <img src="../../assets/logo.png" alt="TryHackMe Logo" width="120" />
   </a>
 </p>
 
