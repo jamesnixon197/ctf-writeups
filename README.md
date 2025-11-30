@@ -7,7 +7,3 @@
 # CTF Write-ups
 
 Welcome to my collection of CTF write-ups.
-
-## TryHackMe {#tryhackme}
-
-- [Juicy](tryhackme/juicy/README.md)
