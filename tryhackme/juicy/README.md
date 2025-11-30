@@ -50,7 +50,7 @@ That’s Flag 1 done: you’ve persuaded Juicy to leak her own system prompt.
 > Note: you may also spot the second flag in the same response. The two are a bit intertwined, so don’t be surprised if they show up together.
 > 
 
-![Screenshot 2025-11-30 at 17.30.46.png](attachment:1cf4d785-c2ab-4d79-9526-95cce35c5518:Screenshot_2025-11-30_at_17.30.46.png)
+![Screenshot 2025-11-30 at 17.30.46.png](./assets/screenshots/1.png)
 
 ---
 
